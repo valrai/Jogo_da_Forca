@@ -1,3 +1,3 @@
 Author: Valdecir Raimundo
-Info: Brazilian student of software engineering 
-Last Update: 11/05/2019
+Bio: Brazilian student of software engineering
+Info: small projects developed for studies only 
