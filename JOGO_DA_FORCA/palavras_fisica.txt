@@ -1,0 +1,13 @@
+refracao;otica
+asteroide;astronomia
+constelacao;astronomia
+corrente;eletricidade
+amplitude;ondas
+aceleracao;movimento
+entropia;temperatura
+inercia;movimento
+magnetismo;ima
+potenciometro;eletricidade
+ressonancia;ondas
+isotermica;temperatura
+gravidade;astronomia

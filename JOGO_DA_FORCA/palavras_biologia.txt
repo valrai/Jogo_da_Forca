@@ -1,0 +1,13 @@
+antibiotico;remedio
+biosfera;ecossistema
+cromossomo;celulas
+eucarionte;celulas;
+fotossintese;plantas
+manguezal;vegetacao
+cerrado;vegetacao
+plancton;mar
+protozoario;parasita
+crustaceo;mar
+sanguessuga;animal
+mamifero;animal
+gafanhoto,inseto

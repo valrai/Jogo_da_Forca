@@ -1,0 +1,13 @@
+rupestre;pinturas
+feudalism;governo
+peste negra;idade media
+iluminismo;periodo
+quilombola;escravidao
+facismo;regime
+papiro;egito
+mesopotamia;escrita
+cruzadas;cristianismo
+polis;grecia
+coronealismo;republica
+ditadura;1964
+paleolitico;pre historia

@@ -1,0 +1,13 @@
+continente;geografia
+recessao;economia
+pancreas;biologia
+o iluminado;literatura
+matrix;cinema
+sofismo;filosofia
+constituicao;historia
+compilador;computacao
+assembleia;politica
+beisebol;esporte
+convalente;quimica
+pavimento;engenharia
+civilizacao;sociologia
